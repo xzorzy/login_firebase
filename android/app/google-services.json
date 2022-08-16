@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726185397513",
+    "project_id": "login-flutter-cecbd",
+    "storage_bucket": "login-flutter-cecbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726185397513:android:fd6cccd507771cf23cd7d8",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726185397513-jehp15isur85lbes93rbubrq9568kcc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCekbvH8D4UiJEHfWt0e6whG2BjjnD3GIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726185397513-jehp15isur85lbes93rbubrq9568kcc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
